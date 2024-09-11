@@ -1,0 +1,722 @@
+{
+    "product": [
+        {
+            "id": 1,
+            "name": "2019 Toyota Corolla XSE",
+            "mileage": "75,850",
+            "exteriorColor": "Galactic Gray Aqua Mica",
+            "interiorColor": "Black Softex Leatherette",
+            "engine": "Gasoline",
+            "horsePower": 132,
+            "engineCapacity": "1.8L 4cyl",
+            "seats": 5,
+            "transmission": "Automatic",
+            "vin": "WVWVA7CD2RW152012",
+            "stock": "V202797K",
+            "price": 17850,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3447.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3447.JPG"
+                },
+                {
+                    "img":"/img/IMG_3446.JPG"
+                },
+                {
+                    "img":"/img/IMG_3448.JPG"
+                },
+                {
+                    "img":"/img/IMG_3449.JPG"
+                },
+                {
+                    "img":"/img/IMG_3450.JPG"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "The value-oriented Toyota Corolla is a front-wheel-drive compact sedan that seats five. Power comes from a 1.8-liter four-cylinder engine that works with a standard continuously variable automatic transmission."
+        },
+        {
+            "id": 2,
+            "name": "2023 Mercedes-Benz GLS-580",
+            "mileage": "9,050",
+            "exteriorColor": "Black",
+            "interiorColor": "Brown",
+            "engine": "Mild Hybrid",
+            "horsePower": 483,
+            "engineCapacity": "4.0L 8cyl",
+            "seats": 7,
+            "transmission": "Automatic",
+            "vin": "WVWVA7CD2RW152012",
+            "stock#": "V202797K",
+            "price": 86500,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/benz5804.jpg",
+            "images": [
+                {
+                    "img":"/img/benz5804.jpg"
+                },
+                {
+                    "img":"/img/gls_580.JPG"
+                },
+                {
+                    "img":"/img/benz5803.jpg"
+                },
+                {
+                    "img":"/img/benz5801.jpg"
+                },
+                {
+                    "img":"/img/benz5805.jpg"
+                },
+                {
+                    "img":"/img/benz580.JPG"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "The GLS quickly impresses with its excellent combination of comfort, performance and technology. It takes everything we enjoy about the top-rated GLE SUV and puts it into a larger, more potent package." 
+        },
+        {
+            "id": 3,
+            "name": "2019 Mercedes-Benz GLE-400",
+            "mileage": "47,850",
+            "exteriorColor": "Pearl White",
+            "interiorColor": "Black",
+            "engine": "Gasoline",
+            "horsePower": 329,
+            "engineCapacity": "3.0L 6cyl",
+            "seats": 5,
+            "transmission": "Automatic",
+            "vin": "WVWVA7CD2RW152012",
+            "stock": "V202797K",
+            "price": 30280,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/gle_400.JPG",
+            "images": [
+                {
+                    "img":"/img/gle_400.JPG"
+                },
+                {
+                    "img":"/img/gle400.jpg"
+                },
+                {
+                    "img":"/img/gle4001.jpg"
+                },
+                {
+                    "img":"/img/gle4003.jpg"
+                },
+                {
+                    "img":"/img/gle4004.jpg"
+                },
+                {
+                    "img":"/img/gle4002.jpg"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "The GLE is available in both SUV and Coupe variants, the hearty gasoline engines remain, from the 329-horsepower V6 to the 577-horsepower AMG V8. All versions come standard with 4MATIC all-wheel drive."
+        },
+        {
+            "id": 4,
+            "name": "2023 VOLKSWAGEN GOLF R",
+            "mileage": "4",
+            "exteriorColor": "Dark Blue",
+            "interiorColor": "Black w/blue accents",
+            "engine": "Gasoline",
+            "horsePower": 315,
+            "engineCapacity": "2.0l 4cyl",
+            "seats": 5,
+            "transmission": "Automated Manual",
+            "vin": "WVWVA7CD2RW152012",
+            "stock": "V202797K",
+            "price": 49665 ,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/golfr.jpg",
+            "images": [
+                {
+                    "img":"/img/golfr.jpg"
+                },
+                {
+                    "img":"/img/golfr1.jpg"
+                },
+                {
+                    "img":"/img/golfr3.jpg"
+                },
+                {
+                    "img":"/img/golfr4.jpg"
+                },
+                {
+                    "img": "/img/golfr5.jpg"
+                },
+                {
+                    "img":"/img/golfr2.jpg"
+                }
+            ],
+            "UsedCars": false,
+            "NewCars": true,
+            "description": "The Golf R refines power, design and intelligence. It’s rather quick and quite sophisticated. All in all, it’s the complete package. This high-performance hatch gives new meaning to the word “joyride”."
+        },
+        {
+            "id": 5,
+            "name": "2023 LEXUS GX 460",
+            "mileage": "10,250",
+            "exteriorColor": "Black Onyx",
+            "interiorColor": "Dark Red",
+            "engine": "Gasoline",
+            "horsePower": 301,
+            "engineCapacity": "4.6L 8cyl",
+            "seats": 7,
+            "transmission": "Automatic",
+            "vin": "WVWVA7CD2RW152012",
+            "stock": "V202797K",
+            "price": 59875,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/gx4605.jpg",
+            "images": [
+                {
+                    "img":"/img/gx4605.jpg"
+                },
+                {
+                    "img":"/img/gx4601.jpg"
+                },
+                {
+                    "img":"/img/gx4603.webp"
+                },
+                {
+                    "img":"/img/gx4604.webp"
+                },
+                {
+                    "img":"/img/gx460.webp"
+                },
+                {
+                    "img":"/img/gx4602.jpg"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "Powering the GX is a traditional engine, as well: a 4.6-liter V-8 making an unremarkable 301 horsepower and 329 pounds-feet of torque. The GX does have the ability to tow 6,500 pounds "
+        },
+        {
+            "id": 6,
+            "name": "2017 LEXUS ES 350",
+            "mileage": "96,754",
+            "exteriorColor": "Black",
+            "interiorColor": "OffWhite/Cream",
+            "engine": "Gasoline",
+            "horsePower": 268,
+            "engineCapacity": "3.5l V6",
+            "seats": 5,
+            "transmission": "Automatic",
+            "vin": "58ABK1GG1HU057778",
+            "stock#": "HU057778",
+            "price": 21900,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3877.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3877.JPG"
+                },
+                {
+                    "img":"/img/IMG_3879.JPG"
+                },
+                {
+                    "img":"/img/IMG_3882.JPG"
+                },
+                {
+                    "img":"/img/IMG_3880.JPG"
+                },
+                {
+                    "img":"/img/IMG_3881.JPG"
+                },
+                {
+                    "img":"/img/IMG_3878.JPG"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "Lexus updated the ES 350 for 2016 with more defined front styling. That change gives the ES 350 more on-the-road presence, with a larger version of the hourglass grille, updated headlights, foglights and styling."
+        },
+        {
+            "id": 7,
+            "name": "2022 LEXUS GX 460",
+            "mileage": "7,958",
+            "exteriorColor": "Dark Red",
+            "interiorColor": "Dark Brown",
+            "engine": "Gasoline",
+            "horsePower": 301,
+            "engineCapacity": "4.6l V8",
+            "seats": 7,
+            "transmission": "Automatic",
+            "vin": "JTJAM7BX1P5361744",
+            "stock": "L7X361744",
+            "price": 59678,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3883.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3883.JPG"
+                },
+                {
+                    "img":"/img/IMG_3884.JPG"
+                },
+                {
+                    "img":"/img/IMG_3888.JPG"
+                },
+                {
+                    "img":"/img/IMG_3885.JPG"
+                },
+                {
+                    "img":"/img/IMG_3886.JPG"
+                },
+                {
+                    "img":"/img/IMG_3887.JPG"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "Powering the GX is a traditional engine, as well: a 4.6-liter V-8 making an unremarkable 301 horsepower and 329 pounds-feet of torque. The GX does have the ability to tow 6,500 pounds"
+        },
+        {
+            "id": 8,
+            "name": "2021 LEXUS RX 350",
+            "mileage": "19,482",
+            "exteriorColor": "Atomic Silver",
+            "interiorColor": "Light Brown",
+            "engine": "Gasoline",
+            "horsePower": 295,
+            "engineCapacity": "3.5l V6",
+            "seats": 5,
+            "transmission": "Automatic",
+            "vin": "2T2AZMDA9NC366567",
+            "stock": "C366567L",
+            "price": 43750,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3890.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3890.JPG"
+                },
+                {
+                    "img":"/img/IMG_3891.JPG"
+                },
+                {
+                    "img":"/img/IMG_3892.JPG"
+                },
+                {
+                    "img":"/img/IMG_3893.JPG"
+                },
+                {
+                    "img":"/img/IMG_3894.JPG"
+                },
+                {
+                    "img":"/img/IMG_3895.JPG"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "Thoroughly modernized over its predecessor, the Lexus RX continues the brand's tradition of expertly built, quiet and comfortable luxury vehicles. The RX does represent solid value in the segment"
+        },
+        {
+            "id": 9,
+            "name": "2024 MERCEDES-BENZ GLE-63 S",
+            "mileage": "6km",
+            "exteriorColor": "Polar White",
+            "interiorColor": "Black Exclusive Premiun Leather",
+            "engine": "Mild Hybrid",
+            "horsePower": 603,
+            "engineCapacity": "4.0 L V8",
+            "seats": 7,
+            "transmission": "Automatic",
+            "vin": "4JGFB8KB2RB237278",
+            "stock": "MRB225737",
+            "price": 144530,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3903.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3903.JPG"
+                },
+                {
+                    "img":"/img/IMG_3901.JPG"
+                },
+                {
+                    "img":"/img/IMG_3902.JPG"
+                },
+                {
+                    "img": "/img/IMG_3906.JPG"
+                },
+                {
+                    "img":"/img/IMG_3905.JPG"
+                },
+                {
+                    "img":"/img/IMG_3904.JPG"
+                }
+            ],
+            "UsedCars": false,
+            "NewCars": true,
+            "description": "For 2024, the GLE gets a significant update. Highlights include revised styling, a more luxurious interior, an upgraded infotainment system and a new plug-in hybrid powertrain option."
+        },
+        {
+            "id": 10,
+            "name": "2024 MERCEDES-BENZ GLE-53 COUPE",
+            "mileage": "8km",
+            "exteriorColor": "MANUFAKTUR Alpine Grey",
+            "interiorColor": "Black Exclusive premium leather",
+            "engine": "Mild Hybrid",
+            "horsePower": 429,
+            "engineCapacity": "3.0L 6cyl",
+            "seats": 5,
+            "transmission": "Automatic",
+            "vin": "4JGFD6BB2RB194673",
+            "stock": "240429",
+            "price": 105230,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3907.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3907.JPG"
+                },
+                {
+                    "img":"/img/IMG_3912.JPG"
+                },
+                {
+                    "img":"/img/IMG_3909.JPG"
+                },
+                {
+                    "img":"/img/IMG_3910.JPG"
+                },
+                {
+                    "img":"/img/IMG_3911.JPG"
+                },
+                {
+                    "img":"/img/IMG_3908.JPG"
+                }
+            ],
+            "UsedCars": false,
+            "NewCars": true,
+            "description": "The GLE 63 S AMG Coupe is for the buyer who wants more of everything from their everyday drive. It's lush with power, looks like it wants to steal your lunch money, and has a wonderfully luxurious interior"
+        },
+        {
+            "id": 11,
+            "name": "2024 MERCEDES-BENZ GLE 450",
+            "mileage": "5km",
+            "exteriorColor": "MANUFAKTUR Alpine Grey",
+            "interiorColor": "Black Exclusive Premiun Leather",
+            "engine": "Mild Hybrid",
+            "horsePower": 375,
+            "engineCapacity": "3.0L Inline 6",
+            "seats": 7,
+            "transmission": "Automatic",
+            "vin": "4JGFB5KB5RB171937",
+            "stock": "MB2507",
+            "price": 82525,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3914.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3914.JPG"
+                },
+                {
+                    "img":"/img/IMG_3915.JPG"
+                },
+                {
+                    "img":"/img/IMG_3919.JPG"
+                },
+                {
+                    "img":"/img/IMG_3913.JPG"
+                },
+                {
+                    "img":"/img/IMG_3916.JPG"
+                },
+                {
+                    "img":"/img/IMG_3917.JPG"
+                }
+            ],
+            "UsedCars": false,
+            "NewCars": true,
+            "description": "The Mercedes GLE is one of the best luxury SUVs on sale today. It brings the heat with a top-notch interior, exceptional build quality, helpful technology features and a diverse lineup of engines"
+        },
+        {
+            "id": 12,
+            "name": "2021 PORSCHE MACAN",
+            "mileage": "45,850",
+            "exteriorColor": "Black",
+            "interiorColor": "Black Leather",
+            "engine": "Gasoline",
+            "horsePower": 252,
+            "engineCapacity": "2.0l Inline 4",
+            "seats": 5,
+            "transmission": "Automatic",
+            "vin": "WP1AA2A58JLB00515",
+            "stock": "JLB00518",
+            "price": 62542,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3920.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3920.JPG"
+                },
+                {
+                    "img":"/img/IMG_3921.JPG"
+                },
+                {
+                    "img":"/img/IMG_3923.JPG"
+                },
+                {
+                    "img":"/img/IMG_3924.JPG"
+                },
+                {
+                    "img":"/img/IMG_3925.JPG"
+                },
+                {
+                    "img":"/img/IMG_3922.JPG"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "With a refined chassis, strong turbocharged engines, and a comfortable cabin, the 2021 Porsche Macan is a dual-purpose package unlike any other vehicle on the road today. It's tearing it up at a track."
+        },
+        {
+            "id": 13,
+            "name": "2025 MERCEDES-BENZ G 63",
+            "mileage": "nil",
+            "exteriorColor": "MANUFAKTUR Alpine Grey",
+            "interiorColor": "Black Leather",
+            "engine": "Mild Hybrid",
+            "horsePower": 577,
+            "engineCapacity": " 4.0-liter V8 biturbo",
+            "seats": 5,
+            "transmission": "Automatic",
+            "vin": "W1NWH1AB7SX004719",
+            "stock": "SX004719",
+            "price": 170752,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3928.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3928.JPG"
+                },
+                {
+                    "img":"/img/IMG_3933.JPG"
+                },
+                {
+                    "img":"/img/IMG_3930.JPG"
+                },
+                {
+                    "img":"/img/IMG_3931.JPG"
+                },
+                {
+                    "img":"/img/IMG_3932.JPG"
+                },
+                {
+                    "img":"/img/IMG_3929.JPG"
+                }
+            ],
+            "UsedCars": false,
+            "NewCars": true,
+            "description": "After nearly half a century, the G-Class continues to challenge the unknown with the all-new 2025 Mercedes-AMG G 63. This new drivetrain supplies a boost of 20 more horses and 148 lb-ft of torque."
+        },
+        {
+            "id": 14,
+            "name": "2023 LEXUS LX 600",
+            "mileage": "nil",
+            "exteriorColor": "Caviar",
+            "interiorColor": "Black Premium Leather",
+            "engine": "Gasoline",
+            "horsePower": 409,
+            "engineCapacity": "3.4L 6cyl Turbo",
+            "seats": 7,
+            "transmission": "Automatic",
+            "vin": "JTJGB7CBX2P402565",
+            "stock": "241315A",
+            "price": 104752,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3937.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3937.JPG"
+                },
+                {
+                    "img":"/img/IMG_3941.JPG"
+                },
+                {
+                    "img":"/img/IMG_3942.JPG"
+                },
+                {
+                    "img":"/img/IMG_3940.JPG"
+                },
+                {
+                    "img":"/img/IMG_3938.JPG"
+                },
+                {
+                    "img":"/img/IMG_3939.JPG"
+                }
+            ],
+            "UsedCars": false,
+            "NewCars": true,
+            "description": "The Lexus LX is a big, modern, full-size luxury SUV that hasn’t sacrificed its off-road toughness.The LX600 is powered by a 409-hp twin-turbo V-6 with a 10-speed automatic transmission."
+        },
+        {
+            "id": 15,
+            "name": "2023 LEXUS IS 500",
+            "mileage": "nil",
+            "exteriorColor": "MANUFAKTUR Alpine Grey",
+            "interiorColor": "Black Premium Leather",
+            "engine": "Gasoline",
+            "horsePower": 472,
+            "engineCapacity": "5.0L 8cyl",
+            "seats": 5,
+            "transmission": "Automatic",
+            "vin": "JTHAP1D2XP5004361",
+            "stock": "P5004361",
+            "price": 68950,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3943.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3943.JPG"
+                },
+                {
+                    "img":"/img/IMG_3948.JPG"
+                },
+                {
+                    "img":"/img/IMG_3944.JPG"
+                },
+                {
+                    "img":"/img/IMG_3947.JPG"
+                },
+                {
+                    "img":"/img/IMG_3946.JPG"
+                },
+                {
+                    "img":"/img/IMG_3945.JPG"
+                }
+            ],
+            "UsedCars": false,
+            "NewCars": true,
+            "description": "From its daring style and responsive handling to the powerful V8 of the IS 500 F SPORTIn addition to a larger, naturally aspirated 5.0-liter V8 engine, the IS 500 F SPORT Performance is superb"
+        },
+        {
+            "id": 16,
+            "name": "2021 LEXUS LX 570",
+            "mileage": "31,645",
+            "exteriorColor": "Black Onyx",
+            "interiorColor": "Black Leather",
+            "engine": "Gasoline",
+            "horsePower": 383,
+            "engineCapacity": "5.7L 8cyl",
+            "seats": 8,
+            "transmission": "Automatic",
+            "vin": "JTJDY7AX2M4336436",
+            "stock": "M4336436P",
+            "price": 72430,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3958.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3958.JPG"
+                },
+                {
+                    "img":"/img/IMG_3959.JPG"
+                },
+                {
+                    "img":"/img/IMG_3960.JPG"
+                },
+                {
+                    "img":"/img/IMG_3962.JPG"
+                },
+                {
+                    "img":"/img/IMG_3961.JPG"
+                },
+                {
+                    "img":"/img/IMG_3963.JPG"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "The Lexus LX 570 is a luxury full-size SUV that seats eight in its three-row version. It comes standard with a 383-horsepower, 5.7-liter V-8 engine that pairs with an eight-speed automatic transmission."
+        },
+        {
+            "id": 17,
+            "name": "2021 MERCEDES-BENZ GLE 450",
+            "mileage": "33,457",
+            "exteriorColor": "Selenite Grey Metallic",
+            "interiorColor": "Maccchiato Beige Leather",
+            "engine": "Mild Hybrid",
+            "horsePower": 362,
+            "engineCapacity": "3.0L 6cyl",
+            "seats": 5,
+            "transmission": "Automatic",
+            "vin": "4JGFB5KB9MA504526",
+            "stock": "M19195A",
+            "price": 45430,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3965.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3965.JPG"
+                },
+                {
+                    "img":"/img/IMG_3970.JPG"
+                },
+                {
+                    "img":"/img/IMG_3967.JPG"
+                },
+                {
+                    "img":"/img/IMG_3969.JPG"
+                },
+                {
+                    "img":"/img/IMG_3968.JPG"
+                },
+                {
+                    "img":"/img/IMG_3966.JPG"
+                }
+            ],
+            "UsedCars": true,
+            "NewCars": false,
+            "description": "Powering the GX is a traditional engine, as well: a 4.6-liter V-8 making an unremarkable 301 horsepower and 329 pounds-feet of torque. The GX does have the ability to tow 6,500 pounds"
+        },
+        {
+            "id": 18,
+            "name": "2023 LEXUS GX 460",
+            "mileage": "nil",
+            "exteriorColor": "Black Onyx",
+            "interiorColor": "Black Premium Leather",
+            "engine": "Gasoline",
+            "horsePower": 383,
+            "engineCapacity": "4.6L 8cyl",
+            "seats": 8,
+            "transmission": "Automatic",
+            "vin": "JTJDY7AX2M4336436",
+            "stock": "M4336436P",
+            "price": 72430,
+            "pricetxt": "Starting MSRP *",
+            "img": "/img/IMG_3949.JPG",
+            "images": [
+                {
+                    "img":"/img/IMG_3949.JPG"
+                },
+                {
+                    "img":"/img/IMG_3951.JPG"
+                },
+                {
+                    "img":"/img/IMG_3950.JPG"
+                },
+                {
+                    "img":"/img/IMG_3953.JPG"
+                },
+                {
+                    "img":"/img/IMG_3952.JPG"
+                },
+                {
+                    "img":"/img/IMG_3954.JPG"
+                }
+            ],
+            "UsedCars": false,
+            "NewCars": true,
+            "description": "Powering the GX is a traditional engine, as well: a 4.6-liter V-8 making an unremarkable 301 horsepower and 329 pounds-feet of torque. The GX does have the ability to tow 6,500 pounds"
+        }
+
+    ]
+}
